@@ -1,12 +1,17 @@
-## Hi there 👋
+# NeonatP
+This project is part of a bachelor work at the [HEIG-VD](https://heig-vd.ch/) conducted during the last academic semester 2022.
 
-<!--
+## Description
+NeonatP is a web platform for the management of medical data related to pain in neonates. This organisation regroups the main building-blocks of the web platform.
 
-**Here are some ideas to get you started:**
+## Architecture
+The frontend was designed in Vue.js on a SPA (Single-Page-Application) model.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The backend follows a microservice architecture. The microservices developed in this project were realized with the SpingBoot framework, except for the secret manager where Vault is used.
+
+TODO -> insert high-level scheme 
+
+## Members
+**Teacher in charge**: Dr. Laura Elena Raileanu
+**Student**: Miguel Do Vale Lopes
+**Contributors**: Lotfy Hayman, Loïc Dessaules
