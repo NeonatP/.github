@@ -13,5 +13,7 @@ TODO -> insert high-level scheme
 
 ## Members
 **Teacher in charge**: Dr. Laura Elena Raileanu
+
 **Student**: Miguel Do Vale Lopes
+
 **Contributors**: Lotfy Hayman, Loïc Dessaules
