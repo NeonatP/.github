@@ -16,4 +16,4 @@ TODO -> insert high-level scheme
 
 **Student**: Miguel Do Vale Lopes
 
-**Contributors**: Lotfy Hayman, Loïc Dessaules
+**Contributors**: Hayman Lotfy, Loïc Dessaules
