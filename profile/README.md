@@ -12,7 +12,7 @@ The frontend was designed in Vue.js on a SPA (Single-Page-Application) model.
 
 The backend follows a microservice architecture. The microservices developed in this project were realized with the SpingBoot framework, except for the secret manager where Vault is used.
 
-[TODO]()
+![System](./assets/archi_sys_final.png)
 
 ## General deployment instruction
 
